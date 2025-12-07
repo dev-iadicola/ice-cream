@@ -7,7 +7,7 @@
 ## Descrizione
 
 L'app **Ice Cream Menu** è un'interfaccia utente per visualizzare il menu di una gelateria. Utilizza React per la creazione di componenti e gestisce le richieste API per recuperare i dati sui gusti di gelato. Gli utenti possono visualizzare diverse categorie di gelato e filtrare i gusti in base alle loro preferenze.
-Apri il link per la [demo](https://androluix.github.io/ice-cream/)
+Apri il link per la [demo](https://dev-iadicola.github.io/ice-cream/)
 
 ## Funzionalità
 
