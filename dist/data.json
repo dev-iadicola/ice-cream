@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nome": "Cono Classico",
+      "img": "images/gelati/cono-classico.svg",
+      "descrizione": "Il cono classico con una pallina di crema e una di cioccolato, servito nel tradizionale cono croccante.",
+      "prezzo": 350,
+      "categoria": "Cono"
+    },
+    {
+      "id": 2,
+      "nome": "Cono Fragola e Pistacchio",
+      "img": "images/gelati/cono-fragola-pistacchio.svg",
+      "descrizione": "Un abbinamento irresistibile tra la dolcezza della fragola e il gusto intenso del pistacchio di Bronte.",
+      "prezzo": 400,
+      "categoria": "Cono"
+    },
+    {
+      "id": 3,
+      "nome": "Cono Stracciatella",
+      "img": "images/gelati/cono-stracciatella.svg",
+      "descrizione": "Gelato alla stracciatella con scaglie di cioccolato fondente in un cono artigianale.",
+      "prezzo": 350,
+      "categoria": "Cono"
+    },
+    {
+      "id": 4,
+      "nome": "Cono Nocciola",
+      "img": "images/gelati/cono-nocciola.svg",
+      "descrizione": "Doppia pallina di nocciola piemontese servita su un cono ricoperto di cioccolato.",
+      "prezzo": 450,
+      "categoria": "Cono"
+    },
+    {
+      "id": 5,
+      "nome": "Coppetta Cioccolato Fondente",
+      "img": "images/gelati/coppetta-cioccolato-fondente.svg",
+      "descrizione": "Due palline di cioccolato fondente al 70% servite in coppetta con granella di cacao.",
+      "prezzo": 400,
+      "categoria": "Coppetta"
+    },
+    {
+      "id": 6,
+      "nome": "Coppetta Frutti di Bosco",
+      "img": "images/gelati/coppetta-frutti-di-bosco.svg",
+      "descrizione": "Mix di lampone, mirtillo e mora in una fresca coppetta decorata con frutti freschi.",
+      "prezzo": 450,
+      "categoria": "Coppetta"
+    },
+    {
+      "id": 7,
+      "nome": "Coppetta Tiramisù",
+      "img": "images/gelati/coppetta-tiramisu.svg",
+      "descrizione": "Il gusto del tiramisù in versione gelato: mascarpone, caffè e cacao amaro.",
+      "prezzo": 400,
+      "categoria": "Coppetta"
+    },
+    {
+      "id": 8,
+      "nome": "Coppetta Vaniglia e Caramello",
+      "img": "images/gelati/coppetta-vaniglia-caramello.svg",
+      "descrizione": "Vaniglia del Madagascar con una cascata di caramello salato fatto in casa.",
+      "prezzo": 450,
+      "categoria": "Coppetta"
+    },
+    {
+      "id": 9,
+      "nome": "Stecco Cioccolato e Mandorle",
+      "img": "images/gelati/stecco-cioccolato-mandorle.svg",
+      "descrizione": "Gelato alla vaniglia ricoperto di cioccolato al latte e mandorle tostate croccanti.",
+      "prezzo": 300,
+      "categoria": "Stecco"
+    },
+    {
+      "id": 10,
+      "nome": "Stecco Yogurt e Fragola",
+      "img": "images/gelati/stecco-yogurt-fragola.svg",
+      "descrizione": "Gelato allo yogurt greco con cuore di fragola e copertura di cioccolato bianco.",
+      "prezzo": 300,
+      "categoria": "Stecco"
+    },
+    {
+      "id": 11,
+      "nome": "Stecco Pistacchio",
+      "img": "images/gelati/stecco-pistacchio.svg",
+      "descrizione": "Cremoso gelato al pistacchio ricoperto di cioccolato fondente e granella di pistacchio.",
+      "prezzo": 350,
+      "categoria": "Stecco"
+    },
+    {
+      "id": 12,
+      "nome": "Stecco Cocco e Mango",
+      "img": "images/gelati/stecco-cocco-mango.svg",
+      "descrizione": "Un gusto tropicale con cocco e mango, ricoperto di cioccolato bianco e scaglie di cocco.",
+      "prezzo": 350,
+      "categoria": "Stecco"
+    }
+  ]
+}

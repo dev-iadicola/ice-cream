@@ -7,7 +7,7 @@ import useFetch from './UseFetch';
 
 
 const Menu = () => {
-    const url = "https://react--course-api.herokuapp.com/api/v1/data/gelateria";
+    const url = import.meta.env.BASE_URL + "data.json";
 
 
     const { data, isLoading } = useFetch(url);

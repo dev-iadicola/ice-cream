@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none" role="img" aria-labelledby="title desc">
+  <title>Coppetta Frutti di Bosco</title>
+  <desc>Illustrazione del gelato Coppetta Frutti di Bosco</desc>
+  
+  <defs>
+    <linearGradient id="bg-coppetta-frutti-di-bosco" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8648b7" />
+      <stop offset="48%" stop-color="#fbcc4e" />
+      <stop offset="100%" stop-color="#274cbf" />
+    </linearGradient>
+    <linearGradient id="panel-coppetta-frutti-di-bosco" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.88)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0.42)" />
+    </linearGradient>
+    <linearGradient id="cone-coppetta-frutti-di-bosco" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#dba55f" />
+      <stop offset="100%" stop-color="#9f6430" />
+    </linearGradient>
+    <filter id="shadow-coppetta-frutti-di-bosco" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="rgba(19,32,43,0.22)" />
+    </filter>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg-coppetta-frutti-di-bosco)" />
+  <circle cx="215" cy="175" r="128" fill="rgba(255,255,255,0.14)" />
+  <circle cx="980" cy="210" r="94" fill="rgba(255,255,255,0.18)" />
+  <circle cx="1025" cy="735" r="154" fill="rgba(255,255,255,0.10)" />
+  <path d="M0 640C182 550 262 560 422 638C592 720 672 716 861 638C997 583 1106 573 1200 620V900H0Z" fill="rgba(255,255,255,0.18)" />
+  <rect x="72" y="72" width="1056" height="756" rx="40" fill="url(#panel-coppetta-frutti-di-bosco)" stroke="rgba(255,255,255,0.35)" />
+
+  
+  <g opacity="0.9">
+    <text x="110" y="150" font-size="34" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-weight="700" fill="#e55b87">COPPETTA</text>
+    <text x="110" y="215" font-size="70" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-weight="800" fill="#fff">Coppetta Frutti di Bosco</text>
+    <text x="110" y="275" font-size="28" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" fill="rgba(255,255,255,0.92)">Illustrazione artigianale per il menu API</text>
+  </g>
+
+  
+    <g filter="url(#shadow-coppetta-frutti-di-bosco)">
+      <ellipse cx="760" cy="742" rx="190" ry="32" fill="rgba(27,42,48,0.18)" />
+      <circle cx="684" cy="392" r="82" fill="#8648b7" />
+      <circle cx="778" cy="360" r="90" fill="#274cbf" />
+      <circle cx="864" cy="408" r="78" fill="#e55b87" />
+      <path d="M635 454H892L850 680C844 725 806 758 760 758C714 758 676 725 670 680Z" fill="#ffffff" opacity="0.95" />
+      <path d="M648 470H880L848 669C843 703 805 731 760 731C716 731 678 703 672 669Z" fill="#fbcc4e" opacity="0.85" />
+      <path d="M648 470H880" stroke="rgba(255,255,255,0.76)" stroke-width="12" stroke-linecap="round" />
+      <path d="M690 540H832" stroke="rgba(255,255,255,0.48)" stroke-width="12" stroke-linecap="round" />
+      <path d="M708 592H814" stroke="rgba(255,255,255,0.34)" stroke-width="12" stroke-linecap="round" />
+      <circle cx="674" cy="350" r="16" fill="#df5a89" />
+        <circle cx="714" cy="330" r="14" fill="#6b45d3" />
+        <circle cx="858" cy="360" r="14" fill="#355dd8" />
+        <path d="M716 314C726 300 738 296 748 298" stroke="#3f7f31" stroke-width="6" stroke-linecap="round" />
+    </g>
+  
+  <g opacity="0.86">
+    <rect x="110" y="682" width="252" height="50" rx="25" fill="rgba(255,255,255,0.18)" />
+    <text x="140" y="715" font-size="24" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-weight="700" fill="#fff">GELATERIA NICE CREAM</text>
+    <text x="112" y="782" font-size="26" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" fill="rgba(255,255,255,0.94)">Immagine locale servita dalle API statiche</text>
+  </g>
+</svg>
